@@ -1,0 +1,128 @@
+{
+  "faturamentoJaneiro2025": [
+    {
+      "data": "2025-01-01",
+      "faturamento": 12000.5
+    },
+    {
+      "data": "2025-01-02",
+      "faturamento": 15000.75
+    },
+    {
+      "data": "2025-01-03",
+      "faturamento": 9800.25
+    },
+    {
+      "data": "2025-01-04",
+      "faturamento": 0
+    },
+    {
+      "data": "2025-01-05",
+      "faturamento": 0
+    },
+    {
+      "data": "2025-01-06",
+      "faturamento": 14200.8
+    },
+    {
+      "data": "2025-01-07",
+      "faturamento": 11800.65
+    },
+    {
+      "data": "2025-01-08",
+      "faturamento": 12500.4
+    },
+    {
+      "data": "2025-01-09",
+      "faturamento": 13000.9
+    },
+    {
+      "data": "2025-01-10",
+      "faturamento": 14000.0
+    },
+    {
+      "data": "2025-01-11",
+      "faturamento": 0
+    },
+    {
+      "data": "2025-01-12",
+      "faturamento": 0
+    },
+    {
+      "data": "2025-01-13",
+      "faturamento": 14500.25
+    },
+    {
+      "data": "2025-01-14",
+      "faturamento": 15500.5
+    },
+    {
+      "data": "2025-01-15",
+      "faturamento": 15000.3
+    },
+    {
+      "data": "2025-01-16",
+      "faturamento": 12000.4
+    },
+    {
+      "data": "2025-01-17",
+      "faturamento": 0
+    },
+    {
+      "data": "2025-01-18",
+      "faturamento": 0
+    },
+    {
+      "data": "2025-01-19",
+      "faturamento": 13800.75
+    },
+    {
+      "data": "2025-01-20",
+      "faturamento": 14000.6
+    },
+    {
+      "data": "2025-01-21",
+      "faturamento": 14600.2
+    },
+    {
+      "data": "2025-01-22",
+      "faturamento": 15500.8
+    },
+    {
+      "data": "2025-01-23",
+      "faturamento": 13000.25
+    },
+    {
+      "data": "2025-01-24",
+      "faturamento": 0
+    },
+    {
+      "data": "2025-01-25",
+      "faturamento": 0
+    },
+    {
+      "data": "2025-01-26",
+      "faturamento": 12200.5
+    },
+    {
+      "data": "2025-01-27",
+      "faturamento": 0
+    },
+    {
+      "data": "2025-01-28",
+      "faturamento": 13500.3
+    },
+    {
+      "data": "2025-01-29",
+      "faturamento": 14000.0
+    },
+    {
+      "data": "2025-01-30",
+      "faturamento": 15000.75
+    },
+    {
+      "data": "2025-01-31",
+      "faturamento": 14800.5
+    }
+  ]
+}
